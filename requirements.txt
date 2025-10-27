@@ -1,2 +1,8 @@
 setuptools
 # -e .
+mysql-connector-python #for reading from mysql database
+pymysql
+python-dotenv
+pandas
+scikit-learn
+SQLAlchemy
